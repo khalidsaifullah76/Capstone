@@ -19,3 +19,8 @@ Score Tracking: Menghitung dan menampilkan skor akhir setelah quiz selesai
 Responsive Design: Interface yang responsive dan mobile-friendly
 Shuffled Answers: Jawaban diacak secara otomatis untuk setiap pertanyaan
 Progress Indicator: Menampilkan progress quiz (soal ke-x dari total)
+
+ AI Support Explanation
+🎨 UX Enhancement: Interactive feedback & visual design
+🔧 Problem Solving: Deployment issues & error handling
+📚 Documentation: README & deployment guides
