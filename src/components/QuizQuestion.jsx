@@ -1,3 +1,4 @@
+// components/QuizQuestion.jsx
 const QuizQuestion = ({ question, answers, onAnswer, current, total }) => {
   return (
     <div className="quiz-container">

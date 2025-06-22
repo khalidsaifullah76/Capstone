@@ -1,3 +1,4 @@
+// components/ScoreSummary.jsx
 const ScoreSummary = ({ score, total }) => {
   const getScoreEmoji = () => {
     const percentage = (score / total) * 100;
