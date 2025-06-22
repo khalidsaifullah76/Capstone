@@ -8,6 +8,7 @@ React.js 18 - JavaScript library untuk membangun user interface
 CSS3 - Styling dengan custom properties dan modern layout
 Open Trivia Database API - External API untuk mendapatkan data pertanyaan quiz
 Vercel - Platform deployment untuk hosting aplikasi
+IBM Granite -Platfrom memperbaiki code dan debugging
 
 Features
 
